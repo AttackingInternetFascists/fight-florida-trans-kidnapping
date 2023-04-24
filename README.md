@@ -1,5 +1,8 @@
 # fight-florida-trans-kidnapping
-Florida Legislature Passes Extreme Anti-Trans Bathroom Bill and Gender-Affirming Care Ban in an Egregious Assault on Parental Rights
+
+## Florida Legislature Passes Extreme Anti-Trans Bathroom Bill and Gender-Affirming Care Ban in an Egregious Assault on Parental Rights
+
+_https://www.hrc.org/press-releases/florida-legislature-passes-extreme-anti-trans-bathroom-bill-and-gender-affirming-care-ban-in-an-egregious-assault-on-parental-rights_
 
 ## The Message
 
