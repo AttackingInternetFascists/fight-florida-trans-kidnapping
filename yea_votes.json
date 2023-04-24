@@ -4,43 +4,77 @@
     "district": "5",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4864",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4864&LegislativeTermId=90",
+    "staff": [
+      "Samantha Sullivan",
+      "Ann McGraw",
+      "Max Scott"
+    ],
     "phones": [
       "(850) 717-5005",
       "(850) 951-0547",
       "(850) 718-0047"
     ],
-    "staff": [
-      "Samantha Sullivan",
-      "Ann McGraw",
-      "Max Scott"
-    ]
+    "bio": {
+      "Occupation:": "Pharmacist, Business Owner",
+      "Spouse:": "Holley Abbott of Milton, FL",
+      "Child(ren):": "Dre Matthews, Tanner Abbott, Tinsley Abbott, Nate Abbott",
+      "Grandchild(ren):": "Dreyson Matthews",
+      "Education:": "Pensacola State College, AA, 1993-1995; University of Florida, BS, Pharmacy, 1995-1998",
+      "Born:": "West Palm Beach, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "fishing, hunting"
+    }
   },
   {
     "name": "Overdorf, Tobin Rogers \"Toby\"",
     "district": "85",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4728",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4728&LegislativeTermId=90",
+    "staff": [
+      "Joseph Katz",
+      "Samantha Rosenberg"
+    ],
     "phones": [
       "(850) 717-5085",
       "(772) 221-4961"
     ],
-    "staff": [
-      "Joseph Katz",
-      "Samantha Rosenberg"
-    ]
+    "bio": {
+      "Occupation:": "Enviromental Consultant",
+      "Spouse:": "Margaret L. \"Maggie\" Overdorf of Baltimore, MD",
+      "Child(ren):": "Carleigh Beatus",
+      "Education:": "Union College, BS, Biology, 1991; Florida Atlantic University, MS, Biology, MBA, Environmental",
+      "Born:": "May 6, 1969, Newport, RI",
+      "Moved to Florida:": "1992",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "fishing, golf, scuba diving, skiing, sporting clays"
+    }
   },
   {
     "name": "Altman, Thad",
     "district": "32",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4329",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4329&LegislativeTermId=90",
+    "staff": [
+      "Angelique Rinaldi",
+      "Ashley Holton"
+    ],
     "phones": [
       "(850) 717-5032",
       "(321) 425-6179"
     ],
-    "staff": [
-      "Angelique Rinaldi",
-      "Ashley Holton"
+    "bio": {
+      "Occupation:": "Foundation President",
+      "Spouse:": "Mary Pat Altman of Rockledge, Florida",
+      "Child(ren):": "McKenzie, Hunter, Sullivan",
+      "Education:": "Eastern Florida State College, AA, 1977; Rollins College, BS, 1987",
+      "Born:": "September 8, Macon, GA",
+      "Moved to Florida:": "1957",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "biking, family activities, hiking, paddling"
+    },
+    "extra": [
+      "Florida Senate, 2008-2016",
+      "Florida House of Representatives, March 25, 2003-2008"
     ]
   },
   {
@@ -48,83 +82,134 @@
     "district": "77",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4892",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4892&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5077"
-    ],
     "staff": [
       "Nicholas Roch",
       "Hilda Quintero"
-    ]
+    ],
+    "phones": [
+      "(850) 717-5077"
+    ],
+    "bio": {
+      "Spouse:": "Danny Kittinger of Fort Myers, FL",
+      "Education:": "Florida Gulf Coast University, BA, Communication; Florida Gulf Coast University, MBA",
+      "Born:": "July 4, 1987, Fort Myers, FL"
+    }
   },
   {
     "name": "Payne, Bobby",
     "district": "20",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4653",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4653&LegislativeTermId=90",
+    "staff": [
+      "Aubrey Fay",
+      "ShawnDale Goddard",
+      "Tammy Still"
+    ],
     "phones": [
       "(850) 717-5020",
       "(386) 312-2272",
       "(352) 732-1244"
     ],
-    "staff": [
-      "Aubrey Fay",
-      "ShawnDale Goddard",
-      "Tammy Still"
-    ]
+    "bio": {
+      "Occupation:": "Electric Generation & Transmission Utilities, Retired",
+      "Child(ren):": "Chance Clay",
+      "Grandchild(ren):": "Lillian, Rylee",
+      "Education:": "Jacksonville University, 1994; NOVA Southeastern University, MBA, 1998",
+      "Born:": "May 16, 1958, Palatka, FL",
+      "Religious Affiliation:": "Baptist",
+      "Recreational Interest:": "baseball, fishing, football, golf, surfing"
+    }
   },
   {
     "name": "Alvarez, Daniel Antonio \"Danny\"",
     "district": "69",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4889",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4889&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5069"
-    ],
     "staff": [
       "Peter Quintanilla",
       "Frank Rivera"
-    ]
+    ],
+    "phones": [
+      "(850) 717-5069"
+    ],
+    "bio": {
+      "Occupation:": "Lawyer",
+      "Child(ren):": "Tony, Emery, Lincoln, Elle",
+      "Education:": "University of Florida, BS, Communications; Troy State University, MS, Education; Stetson College of Law, JD; University of Miami, School of Law, LLM",
+      "Born:": "Miami, FL",
+      "Military:": "United States Army, Retired",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "exercise, family, hunting, reading"
+    }
   },
   {
     "name": "Fabricio, Tom",
     "district": "110",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4792",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792&LegislativeTermId=90",
+    "staff": [
+      "Nikita Mizgirev",
+      "Felicia Salazar"
+    ],
     "phones": [
       "(850) 717-5110",
       "(305) 364-3064"
     ],
-    "staff": [
-      "Nikita Mizgirev",
-      "Felicia Salazar"
-    ]
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Laura",
+      "Child(ren):": "Veronica, Alexandra",
+      "Education:": "Marymount Manhattan College, BA, 2005; Nova Southeastern University, JD, 2008",
+      "Born:": "January 3, Miami, FL",
+      "Religious Affiliation:": "Roman Catholic",
+      "Recreational Interest:": "spending time with family"
+    }
   },
   {
     "name": "Perez, Daniel",
     "district": "116",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4690",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4690&LegislativeTermId=90",
+    "staff": [
+      "Andres Torres",
+      "Maria Lombard"
+    ],
     "phones": [
       "(850) 717-5116",
       "(305) 348-1414"
     ],
-    "staff": [
-      "Andres Torres",
-      "Maria Lombard"
-    ]
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Stephanie Perez",
+      "Child(ren):": "Camila Lucia Perez, Matias Daniel Perez",
+      "Education:": "Florida State University, BA, 2009; Loyola University New Orleans College of Law, JD, 2012",
+      "Born:": "June 22, New York City, NY",
+      "Religious Affiliation:": "Catholic"
+    }
   },
   {
     "name": "Amesty, Carolina",
     "district": "45",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4876",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4876&LegislativeTermId=90",
+    "staff": [
+      "Victoria Estrada",
+      "Joseph Melendez"
+    ],
     "phones": [
       "(850) 717-5045",
       "(407) 271-4011"
     ],
-    "staff": [
-      "Victoria Estrada",
-      "Joseph Melendez"
+    "bio": {
+      "Occupation:": "Businesswoman, University Vice President",
+      "Education:": "University of Central Florida, BA, Political Science, Pre Law",
+      "Born:": "November 4",
+      "Moved to Florida:": "1998",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "playing piano, reading, traveling"
+    },
+    "extra": [
+      "Republican National Committee Rising Star, February 2020"
     ]
   },
   {
@@ -132,55 +217,92 @@
     "district": "118",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4709",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4709&LegislativeTermId=90",
+    "staff": [
+      "Armando Munero",
+      "Christopher Zegarra"
+    ],
     "phones": [
       "(850) 717-5118",
       "(305) 222-4119"
     ],
-    "staff": [
-      "Armando Munero",
-      "Christopher Zegarra"
-    ]
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Catalina",
+      "Education:": "Belen Jesuit Preparatory School, Diploma, 2001; Florida International University, BA, cum laude, Economics, 2005; American University Washington College of Law, JD, 2008",
+      "Born:": "March 6, 1983, Miami, FL",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "Brazilian jiujitsu (blue belt), CrossFit, kayaking, listening to podcasts, paddleboarding, reading"
+    }
   },
   {
     "name": "Persons-Mulicka, Jenna",
     "district": "78",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4785",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4785&LegislativeTermId=90",
+    "staff": [
+      "Brandon Edmonston",
+      "Olivia Tenzel"
+    ],
     "phones": [
       "(850) 717-5078",
       "(239) 338-2328"
     ],
-    "staff": [
-      "Brandon Edmonston",
-      "Olivia Tenzel"
-    ]
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "David Mulicka",
+      "Child(ren):": "Charlie Mulicka",
+      "Education:": "Evangel University, BA, Journalism, 2004, BA, Government, 2005; The George Washington University School of Law, JD, 2008",
+      "Born:": "February 18, 1983, Naples, FL",
+      "Recreational Interest:": "fishing, sporting clay shooting, tennis"
+    }
   },
   {
     "name": "Anderson, Adam",
     "district": "57",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4885",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4885&LegislativeTermId=90",
+    "staff": [
+      "Corey Recvlohe",
+      "Anna Stearns"
+    ],
     "phones": [
       "(850) 717-5057",
       "(727) 626-4440"
     ],
-    "staff": [
-      "Corey Recvlohe",
-      "Anna Stearns"
-    ]
+    "bio": {
+      "Occupation:": "Financial Planner, Real Estate Investor",
+      "Education:": "Florida State University, BS, Real Estate, BS, Finance, 2001-2005",
+      "Moved to Florida:": "1998",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "boating, fishing, hunting, outdoors, sailing"
+    }
   },
   {
     "name": "Fine, Randy",
     "district": "33",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4646",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4646&LegislativeTermId=90",
+    "staff": [
+      "Anna Budko",
+      "Nancy Bernier"
+    ],
     "phones": [
       "(850) 717-5033",
       "(321) 409-2017"
     ],
-    "staff": [
-      "Anna Budko",
-      "Nancy Bernier"
+    "bio": {
+      "Occupation:": "Businessman",
+      "Spouse:": "Wendy Fine of Kansas City, Missouri",
+      "Child(ren):": "Jacob, David",
+      "Education:": "Harvard College, AB, magna cum laude, 1992-1996; Harvard Business School, MBA, with high distinction, 1996-1998",
+      "Born:": "April 20, 1974, Tucson, AZ",
+      "Moved to Florida:": "2006",
+      "Religious Affiliation:": "Jewish",
+      "Recreational Interest:": "Cub Scouting and Boy Scouting with my two sons; teaching Junior Achievement in my sons\u2019 school; traveling to all 417 National Parks with my family"
+    },
+    "extra": [
+      "Brevard Delegation, Vice Chairman, 2016-2017",
+      "Central Florida Council of the Boy Scouts of America, Advisory Board member, 2016-present"
     ]
   },
   {
@@ -188,27 +310,53 @@
     "district": "36",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4871",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4871&LegislativeTermId=90",
+    "staff": [
+      "None",
+      "Michael Alpert"
+    ],
     "phones": [
       "(850) 717-5036",
       "(407) 263-3931"
     ],
-    "staff": [
-      "None",
-      "Michael Alpert"
-    ]
+    "bio": {
+      "Occupation:": "Business Owner",
+      "Spouse:": "Scott Plakon",
+      "Child(ren):": "Esther Grace \"Gracie\"",
+      "Education:": "Oral Roberts University, BS, Mass Media Communications, 1997-2001, College Republicans; Florida International University, Corporate MBA, 2010-2011",
+      "Born:": "June 17, 1979, Dothan, AL",
+      "Moved to Florida:": "2013",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "reading, singing, surfing"
+    }
   },
   {
     "name": "Andrade, Robert Alexander \"Alex\"",
     "district": "2",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4710",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4710&LegislativeTermId=90",
+    "staff": [
+      "Trevor Schaettle",
+      "Turner Mitchell"
+    ],
     "phones": [
       "(850) 717-5002",
       "(850) 595-0467"
     ],
-    "staff": [
-      "Trevor Schaettle",
-      "Turner Mitchell"
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Jessica Andrade",
+      "Education:": "University of Florida, BS; University of Florida, JD",
+      "Born:": "July 22, 1989, George Town, Grand Cayman",
+      "Moved to Florida:": "1991",
+      "Religious Affiliation:": "Baptist"
+    },
+    "extra": [
+      "ESRBA Young Lawyers Division, Board member",
+      "Greater Pensacola Chamber of Commerce, Policy Committee Chairman",
+      "onbikes Pensacola, inc., founding Board member",
+      "Leadership Pensacola, 2017",
+      "inweekly, Voted Best Rising Leader, 2017",
+      "Governor Jeb Bush Award for Outstanding Achievement, 2014"
     ]
   },
   {
@@ -216,82 +364,142 @@
     "district": "8",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4863",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4863&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5008"
-    ],
     "staff": [
       "Chicarla Williams Pye",
       "Courtney Jones"
-    ]
+    ],
+    "phones": [
+      "(850) 717-5008"
+    ],
+    "bio": {
+      "Occupation:": "Healthcare, Real Estate, Education",
+      "Spouse:": "Chelsea M. Franklin of Tallahassee, FL",
+      "Education:": "Florida Agricultural and Mechanical University, PharmD",
+      "Born:": "August 22, Tallahassee, FL",
+      "Religious Affiliation:": "Nondenominational",
+      "Recreational Interest:": "golf, martial arts, musical arts"
+    }
   },
   {
     "name": "Plasencia, Susan",
     "district": "37",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4872",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4872&LegislativeTermId=90",
+    "staff": [
+      "Victor Martinez",
+      "Daniel Elliott"
+    ],
     "phones": [
       "(850) 717-5037",
       "(407) 623-1305"
     ],
-    "staff": [
-      "Victor Martinez",
-      "Daniel Elliott"
-    ]
+    "bio": {
+      "Occupation:": "Small Business Owner",
+      "Born:": "Los Angeles, CA",
+      "Moved to Florida:": "1971"
+    }
   },
   {
     "name": "Porras, Juan Carlos",
     "district": "119",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4898",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4898&LegislativeTermId=90",
+    "staff": [
+      "None",
+      "Carmen Sotomayor"
+    ],
     "phones": [
       "(850) 717-5119",
       "(305) 252-4307"
     ],
-    "staff": [
-      "None",
-      "Carmen Sotomayor"
-    ]
+    "bio": {
+      "Occupation:": "Small Business Owner",
+      "Education:": "Florida International University, BA, Political Science",
+      "Born:": "July 8, 1997, Miami, FL",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "basketball, fencing, golf"
+    }
   },
   {
     "name": "Garcia, Alina",
     "district": "115",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4899",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4899&LegislativeTermId=90",
+    "staff": [
+      "Angelimarie Arana",
+      "None"
+    ],
     "phones": [
       "(850) 717-5115",
       "(305) 663-2065"
     ],
-    "staff": [
-      "Angelimarie Arana",
-      "None"
-    ]
+    "bio": {
+      "Occupation:": "Business Owner, Real Estate",
+      "Child(ren):": "Alany Hernandez, Alyn Fernandez, Jorge Cruz",
+      "Grandchild(ren):": "Jorge Cruz, Alessandra Cruz, Cesar Cruz, Anthony Sune, Keith Hernandez, Amaya Fernandez, Alena Hernandez, Lucas Fernandez, Christian Fernandez, Ashley Higgins, Joseph John Higgins",
+      "Education:": "Miami Senior High School, 1974; Miami Dade Community College",
+      "Born:": "April 6, Havana, Cuba",
+      "Moved to Florida:": "1961",
+      "Religious Affiliation:": "Catholic"
+    }
   },
   {
     "name": "Baker, Jessica",
     "district": "17",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4866",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4866&LegislativeTermId=90",
+    "staff": [
+      "Anna Reagan",
+      "George Fossett"
+    ],
     "phones": [
       "(850) 717-5017",
       "(904) 928-1217"
     ],
-    "staff": [
-      "Anna Reagan",
-      "George Fossett"
-    ]
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Tim Baker",
+      "Child(ren):": "Brooks, Olivia",
+      "Education:": "Florida State University, BA; Florida State University, College of Law, JD",
+      "Born:": "April 12",
+      "Religious Affiliation:": "Christian"
+    }
   },
   {
     "name": "Garrison, Sam",
     "district": "11",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4767",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767&LegislativeTermId=90",
+    "staff": [
+      "Ryan Kimmey",
+      "Courtney Hoard"
+    ],
     "phones": [
       "(850) 717-5011",
       "(904) 278-2062"
     ],
-    "staff": [
-      "Ryan Kimmey",
-      "Courtney Hoard"
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Gayle Simpson Garrison",
+      "Child(ren):": "Mary Beth, Jane",
+      "Education:": "Samford University, BA, International Relations, 1998; University of Illinois College of Law, JD, 2001",
+      "Born:": "November 13, 1976, Peoria, IL",
+      "Moved to Florida:": "2001",
+      "Religious Affiliation:": "Anglican",
+      "Recreational Interest:": "American history, music, reading, running"
+    },
+    "extra": [
+      "JDRF North Florida Chapter, Board of Directors, 2018-2020",
+      "St. Johns River State College, Board of Trustees, 2017-2020, Chairman, 2018-2020",
+      "Jacksonville Area Legal Aid, Board of Directors, 2015-2017",
+      "Quigley House, Board of Directors, 2011-2014",
+      "Orange Park Medical Center, Board of Trustees, 2007-2009",
+      "Clay County Task Force on Sexual Assault and Domestic Violence, Chairman, 2005-2007",
+      "Leadership Jacksonville Class of 2016",
+      "Clay County Bar Association, President, 2015-2016",
+      "National College of District Attorneys, National Advocacy Center, Faculty Member, 2007",
+      "Judicial Victim Advocate Award, Mayor's Victim Assistance Advisory Council, 2006",
+      "Outstanding New Felony Prosecutor, 4th Judicial Circuit, 2003"
     ]
   },
   {
@@ -299,55 +507,99 @@
     "district": "19",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4619",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4619&LegislativeTermId=90",
+    "staff": [
+      "None",
+      "Shannon Shephard"
+    ],
     "phones": [
       "(850) 717-5019",
       "(386) 446-7644"
     ],
-    "staff": [
-      "None",
-      "Shannon Shephard"
-    ]
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Adriana",
+      "Education:": "Davidson College, BA, History, 1985-1989; University of Florida, JD, 1991-1994",
+      "Born:": "March 21, Atlanta, GA",
+      "Military:": "Commander, U.S. Navy, retired. Deployments: Operation Desert Storm (Persian Gulf), 1991; Operation Enduring Freedom (Afghanistan), 2011",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "reading, sports, travel"
+    }
   },
   {
     "name": "Bankson, Douglas Michael \"Doug\"",
     "district": "39",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4873",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4873&LegislativeTermId=90",
+    "staff": [
+      "Nicole Kennedy",
+      "Crystal Cassidy"
+    ],
     "phones": [
       "(850) 717-5039",
       "(407) 464-3334"
     ],
-    "staff": [
-      "Nicole Kennedy",
-      "Crystal Cassidy"
-    ]
+    "bio": {
+      "Occupation:": "Pastor/Ministry Founder, Faith-based School Founder/President",
+      "Spouse:": "Jeri Bankson of Sioux City, IA",
+      "Child(ren):": "Benjamin, Joseph, Michael, Victoria \"Tori\"",
+      "Grandchild(ren):": "Elliana \"Elli\", Ezra",
+      "Education:": "Missouri Southern, Music Education, 1981-1982; Word of Faith Leadership and Bible Institute, 1983-1984; Life Christian University, BTh, 2011; Life Christian University, MTh, 2012; School of Bible Theology Seminary and University, DDiv, 2015",
+      "Born:": "February 18, 1963, Altadena, CA",
+      "Moved to Florida:": "1982",
+      "Religious Affiliation:": "Non-denominational Christian",
+      "Recreational Interest:": "certified SCUBA diver, golf, instrument rated pilot, musician, producer, overseas missions, singer/songwriter, tennis, time with wife, children, grandchildren"
+    }
   },
   {
     "name": "Giallombardo, Mike",
     "district": "79",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4783",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4783&LegislativeTermId=90",
+    "staff": [
+      "Eric Schau",
+      "Priscilla Skupny"
+    ],
     "phones": [
       "(850) 717-5079",
       "(239) 772-1291"
     ],
-    "staff": [
-      "Eric Schau",
-      "Priscilla Skupny"
-    ]
+    "bio": {
+      "Occupation:": "Tech Entrepreneur",
+      "Spouse:": "Wendi Giallombardo",
+      "Child(ren):": "Luca, Presley, Ivey",
+      "Education:": "Georgia Military College, AS, 2002-2004, military cadet, football; Florida Atlantic University, BA, Criminal Justice, 2004-2006, football; American Military University, MA, International Relations/Conflict Resolution, 2008-2010",
+      "Born:": "October, 1982",
+      "Military:": "United States Army Reserve, Florida Army National Guard, 13 Years, Chief Warrant Officer, Operation Iraqi Freedom",
+      "Moved to Florida:": "1992",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "fishing, football, hunting, spending time with family"
+    }
   },
   {
     "name": "Rizo, Alex",
     "district": "112",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4796",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4796&LegislativeTermId=90",
+    "staff": [
+      "Bethany Keime",
+      "Carmenchu Mingo"
+    ],
     "phones": [
       "(850) 717-5112",
       "(305) 364-3114"
     ],
-    "staff": [
-      "Bethany Keime",
-      "Carmenchu Mingo"
+    "bio": {
+      "Occupation:": "Educator, Small Business Owner",
+      "Child(ren):": "Anthony, Michael",
+      "Education:": "Hialeah High School, 1985; University of Miami, 1985-1987; Florida International University, BS, Biological Sciences, 1995; Nova Southeastern University, MS, Educational Leadership and Administration, 2000; Harvard Graduate School of Education, National Institute for Urban School Leaders, 2006",
+      "Born:": "New York City, NY",
+      "Moved to Florida:": "1968",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "boating, bonsai and orchid culture, camping, cooking, fishing"
+    },
+    "extra": [
+      "Mensa",
+      "Miami Lakes Chamber of Commerce"
     ]
   },
   {
@@ -355,82 +607,139 @@
     "district": "29",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4770",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4770&LegislativeTermId=90",
+    "staff": [
+      "Darryl Boyer",
+      "Robb Marcantonio"
+    ],
     "phones": [
       "(850) 717-5029",
       "(386) 736-5042"
     ],
-    "staff": [
-      "Darryl Boyer",
-      "Robb Marcantonio"
-    ]
+    "bio": {
+      "Occupation:": "President of an LLC",
+      "Spouse:": "Silvia",
+      "Child(ren):": "Britney, Adrian",
+      "Education:": "Birmingham Metropolitan College, Matthew Boulton Technical College Campus, Birmingham, England, AA, Business",
+      "Born:": "December 9, 1959, Birmingham, England",
+      "Moved to Florida:": "1991",
+      "Religious Affiliation:": "Christian"
+    }
   },
   {
     "name": "Gonzalez Pittman, Karen",
     "district": "65",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4888",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4888&LegislativeTermId=90",
+    "staff": [
+      "Christopher Klaban",
+      "Glenn Juman"
+    ],
     "phones": [
       "(850) 717-5065",
       "(813) 202-3345"
     ],
-    "staff": [
-      "Christopher Klaban",
-      "Glenn Juman"
-    ]
+    "bio": {
+      "Occupation:": "Business Owner, Educator",
+      "Spouse:": "C. Christopher \"Chris\" Pittman",
+      "Child(ren):": "Isabella, Alexandra, Jonathan, Matthew",
+      "Grandchild(ren):": "Brielle, Valerie",
+      "Education:": "University of South Florida, Elementary Education, 1980-1984; University of South Florida, Measurement, Evaluation and Testing, 1989-1991",
+      "Born:": "Tampa, FL",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "boating, fishing"
+    }
   },
   {
     "name": "Roach, Spencer",
     "district": "76",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4729",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4729&LegislativeTermId=90",
+    "staff": [
+      "Elaina Cosentino",
+      "Eddie Stokes"
+    ],
     "phones": [
       "(850) 717-5076",
       "(239) 656-7790"
     ],
-    "staff": [
-      "Elaina Cosentino",
-      "Eddie Stokes"
-    ]
+    "bio": {
+      "Occupation:": "Judge Advocate",
+      "Education:": "Edison Community College, AA, 2001-2003; Florida Gulf Coast University, BA, Political Science, summa cum laude, 2003-2005; University of Miami School of Law, JD, 2009-2012",
+      "Born:": "September 2, Louisiana",
+      "Military:": "United States Coast Guard 1996-2016, Retired, deployed to Middle East, Meritorious Service Medal, Coast Guard Commendation Medals, Coast Guard Achievement Medals, Navy and Marine Corps Achievement Medal, all with Operational Distinguishing Device",
+      "Moved to Florida:": "2000",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "scuba diver, spending time in South and Central America, travel"
+    }
   },
   {
     "name": "Gossett-Seidman, Peggy",
     "district": "91",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4891",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4891&LegislativeTermId=90",
+    "staff": [
+      "Andres Montero",
+      "Diana Campos"
+    ],
     "phones": [
       "(850) 717-5091",
       "(561) 750-2396"
     ],
-    "staff": [
-      "Andres Montero",
-      "Diana Campos"
-    ]
+    "bio": {
+      "Occupation:": "Sportswriter, Media and Public Relations Director",
+      "Spouse:": "Dr. Barry Seidman of Brooklyn, New York City, NY",
+      "Child(ren):": "Dr. Tyler Seidman, Austin Seidman, Dallas Seidman, PA",
+      "Education:": "Michigan State University, BA, with honors, English/Journalism/History, 1971-1976",
+      "Born:": "April 7, Topeka, KS",
+      "Moved to Florida:": "1976",
+      "Religious Affiliation:": "Catholic, Jewish",
+      "Recreational Interest:": "boating, guitar, reading, running, scuba diving, spending time with family, swimming, traveling, writing"
+    }
   },
   {
     "name": "Basabe, Fabi\u00e1n",
     "district": "106",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4900",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4900&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5106"
-    ],
     "staff": [
       "Nicolas Frevola",
       "Adrian Gonzalez"
-    ]
+    ],
+    "phones": [
+      "(850) 717-5106"
+    ],
+    "bio": {
+      "Spouse:": "Martina Borgomanero Basabe of Italy",
+      "Child(ren):": "F. Brando B. Basabe",
+      "Education:": "Cheshire Academy; Pepperdine University",
+      "Born:": "March 30, 1978, New York City, NY",
+      "Moved to Florida:": "1987",
+      "Religious Affiliation:": "Roman Catholic"
+    }
   },
   {
     "name": "Robinson , Jr., William Cloud \"Will\"",
     "district": "71",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4733",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4733&LegislativeTermId=90",
+    "staff": [
+      "Alana Fay",
+      "Ashley Roberts-Ledo"
+    ],
     "phones": [
       "(850) 717-5071",
       "(941) 744-5097"
     ],
-    "staff": [
-      "Alana Fay",
-      "Ashley Roberts-Ledo"
+    "bio": {
+      "Occupation:": "Real Estate Attorney",
+      "Education:": "University of Notre Dame, BA, Finance, 1997; Stetson University College of Law, JD, 2000",
+      "Born:": "November 15, 1975, Bradenton, FL",
+      "Religious Affiliation:": "Roman Catholic",
+      "Recreational Interest:": "avid runner, completed two Boston Marathons and two Ironman races"
+    },
+    "extra": [
+      "Biz941, People to Watch in 2015",
+      "Business Observer, 40 Under 40, 2014"
     ]
   },
   {
@@ -438,27 +747,64 @@
     "district": "49",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4753",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4753&LegislativeTermId=90",
+    "staff": [
+      "Nathan Register",
+      "Shannon Curtis"
+    ],
     "phones": [
       "(850) 717-5049",
       "(863) 285-1101"
     ],
-    "staff": [
-      "Nathan Register",
-      "Shannon Curtis"
-    ]
+    "bio": {
+      "Occupation:": "Business Owner",
+      "Spouse:": "Robbie Bell of Bartow, FL",
+      "Child(ren):": "Ashley Barnett, Whitnie Bell",
+      "Education:": "South Florida Community College, AS; Southeastern University, BS, Business and Professional Leadership",
+      "Born:": "October 29, 1961, Winter Haven, FL",
+      "Religious Affiliation:": "Protestant",
+      "Recreational Interest:": "gardening, spending time with family, travel"
+    }
   },
   {
     "name": "Grant, Michael",
     "district": "75",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4349",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4349&LegislativeTermId=90",
+    "staff": [
+      "Jim Browne",
+      "Cynthia Beckett"
+    ],
     "phones": [
       "(850) 717-5075",
       "(941) 613-0914"
     ],
-    "staff": [
-      "Jim Browne",
-      "Cynthia Beckett"
+    "bio": {
+      "Occupation:": "Business Owner",
+      "Spouse:": "Lorraine M. Butler of Boston, MA",
+      "Child(ren):": "Vanessa, Christopher, Nicholas",
+      "Education:": "University of Massachusetts, Amherst, BA, Political Science, 1972; Suffolk University, Boston, MBA, 1980",
+      "Born:": "July 15, 1949, Quincy, MA",
+      "Moved to Florida:": "1988",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "boating, fitness, golf, reading, tennis"
+    },
+    "extra": [
+      "House of Representatives, Majority Leader, 2020-2022",
+      "House of Representatives, Majority Deputy Whip 2016-2018",
+      "Florida House of Representatives, 2004-2008",
+      "Enterprise Charlotte, past Chair",
+      "Charlotte County Airport Authority Commissioner, appointed 1998, elected 2000, past Chair",
+      "Charlotte County Cultural Center, Board of Trustees",
+      "Edison Community College Foundation",
+      "Englewood Chamber of Commerce",
+      "North Port Chamber of Commerce",
+      "Punta Gorda Chamber of Commerce",
+      "American Cancer Society, Charlotte Chapter, past Treasurer",
+      "Charlotte County Family YMCA, past President",
+      "Florida Ambulance Association, Treasurer 1998-2004",
+      "Charlotte County Chamber of Commerce, Government Affairs Committee, Chair, 2003",
+      "Enterprise Charlotte, Chair, 2003",
+      "Leadership Charlotte Class of 1988"
     ]
   },
   {
@@ -466,27 +812,49 @@
     "district": "81",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4634",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4634&LegislativeTermId=90",
+    "staff": [
+      "Kim Timm",
+      "Priscilla Grannis"
+    ],
     "phones": [
       "(850) 717-5081",
       "(239) 417-6200"
     ],
-    "staff": [
-      "Kim Timm",
-      "Priscilla Grannis"
-    ]
+    "bio": {
+      "Occupation:": "Restaurant Owner",
+      "Spouse:": "Sandra of Buffalo, New York",
+      "Born:": "November 30, 1962, Red Bank , NJ",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "entertaining family and friends, fishing, golf, reading"
+    }
   },
   {
     "name": "Beltran, Mike",
     "district": "70",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4747",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4747&LegislativeTermId=90",
+    "staff": [
+      "Chris Licata",
+      "Kori Francis"
+    ],
     "phones": [
       "(850) 717-5070",
       "(813) 653-7097"
     ],
-    "staff": [
-      "Chris Licata",
-      "Kori Francis"
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Hope Beltran of Breckenridge, MN",
+      "Child(ren):": "Michael, Ross",
+      "Education:": "University of Pennsylvania, BA, magna cum laude, 2005, with honors in International Relations; Harvard Law School, JD, 2008",
+      "Born:": "June 26, 1984, New York City, NY",
+      "Moved to Florida:": "2010",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "board games, distance running, military and legal history, reading, target shooting, weightlifting, wrestling"
+    },
+    "extra": [
+      "Judicial Nominating Commission for Florida\u2019s Fifth District Court of Appeal, Commissioner",
+      "2017 Outstanding Young Florida Lawyers",
+      "Law Clerk to Federal District Judge"
     ]
   },
   {
@@ -494,29 +862,59 @@
     "district": "72",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4732",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4732&LegislativeTermId=90",
+    "staff": [
+      "Kevin Fleming",
+      "Carolyn Kolenda"
+    ],
     "phones": [
       "(850) 717-5072",
       "(941) 893-5434"
     ],
-    "staff": [
-      "Kevin Fleming",
-      "Carolyn Kolenda"
-    ]
+    "bio": {
+      "Occupation:": "Attorney, Entrepreneur",
+      "Spouse:": "Erica Gregory of New York",
+      "Child(ren):": "Grant, Eric, Noah",
+      "Education:": "United States Air Force Academy, BS, Economics, with military distinction, 1990-1994; University of Texas School of Law, JD, with honors, 1997-2000",
+      "Born:": "Tampa, FL",
+      "Military:": "United States Air Force, 1994-2014, deployed in support of operations Southern Watch, Iraqi Freedom, Enduring Freedom; Retired",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "hunting, scuba diving"
+    }
   },
   {
     "name": "Roth, Rick",
     "district": "94",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4648",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4648&LegislativeTermId=90",
+    "staff": [
+      "Sheila Jackson",
+      "Teri Mitze",
+      "William Ponsoldt"
+    ],
     "phones": [
       "(850) 717-5094",
       "(561) 791-4046",
       "(561) 992-1323"
     ],
-    "staff": [
-      "Sheila Jackson",
-      "Teri Mitze",
-      "William Ponsoldt"
+    "bio": {
+      "Occupation:": "Agriculture, Business Owner",
+      "Spouse:": "Carolyn J. \"Jeanie\" Roth of New York City, NY",
+      "Child(ren):": "Lindsay M. McKeen, Ryan M. Roth, Ashley N. Roth",
+      "Grandchild(ren):": "Hannah McKeen, Ezra McKeen, Ella Roth",
+      "Education:": "Emory University, BS",
+      "Born:": "November 21, 1952, West Palm Beach, FL",
+      "Religious Affiliation:": "Presbyterian",
+      "Recreational Interest:": "boating, college football, tennis"
+    },
+    "extra": [
+      "Chamber of Commerce of the Palm Beaches",
+      "Farmers Feeding Florida",
+      "Florida Association of Food Banks",
+      "Florida Fruit & Vegetable Association, Board member",
+      "Palm Beach North Chamber of Commerce",
+      "Western Palm Beach County Farm Bureau, Board member",
+      "Florida Health Care Association, Champion for the Elderly, 2019",
+      "Florida Farm Bureau, Champion of Agriculture Award, 2017, 2018"
     ]
   },
   {
@@ -524,41 +922,94 @@
     "district": "6",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4862",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4862&LegislativeTermId=90",
+    "staff": [
+      "Patti Butchikas",
+      "Sonya Smith"
+    ],
     "phones": [
       "(850) 717-5006",
       "(850) 914-6300"
     ],
-    "staff": [
-      "Patti Butchikas",
-      "Sonya Smith"
-    ]
+    "bio": {
+      "Occupation:": "Small Business Owner",
+      "Spouse:": "Laura Griffitts of Panama City, FL",
+      "Child(ren):": "Katherine Elizabeth \"Katie\", Anna Claire",
+      "Education:": "Florida State University, 1989-1993",
+      "Born:": "August 29, 1971, Panama City, FL",
+      "Religious Affiliation:": "Nondenominational",
+      "Recreational Interest:": "fishing, golfing, spending time with family, surfing"
+    }
   },
   {
     "name": "Rudman, Dr. Joel",
     "district": "3",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4861",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4861&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5003",
-      "(850) 936-6012"
-    ],
     "staff": [
       "Chandler Holloway",
       "Ashley Jeffrey"
-    ]
+    ],
+    "phones": [
+      "(850) 717-5003",
+      "(850) 936-6012",
+      "(850) 475-4977"
+    ],
+    "bio": {
+      "Occupation:": "Physician",
+      "Spouse:": "Sophie Rudman of Wales, United Kingdom",
+      "Child(ren):": "Evan, Megan",
+      "Education:": "Tulane University, 1988-1990; University of Wales, 1990-1991; University of Southern Mississippi, BA, 1993; University of Mississippi, MD, 1996",
+      "Moved to Florida:": "1996",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "bike riding, kayaking, playing guitar, tennis, walking his Border Collies"
+    }
   },
   {
     "name": "Berfield, Kimberly",
     "district": "58",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4210",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4210&LegislativeTermId=90",
+    "staff": [
+      "None",
+      "Ron Ogden"
+    ],
     "phones": [
       "(850) 717-5058",
       "(727) 216-6035"
     ],
-    "staff": [
-      "None",
-      "Ron Ogden"
+    "bio": {
+      "Occupation:": "Business Executive",
+      "Education:": "University of Central Florida, BA; Northeastern University, MBA",
+      "Born:": "Houston, TX",
+      "History:": "Jim Berfield, Clearwater City Commissioner; Sue Berfield, Clearwater City Commissioner",
+      "Moved to Florida:": "1972",
+      "Religious Affiliation:": "Baptist",
+      "Recreational Interest:": "arts, reading, spending time with family, Tampa Bay Buccaneers football, traveling, University of Central Florida football"
+    },
+    "extra": [
+      "Florida House of Representatives, 2000-2006",
+      "American Cancer Society Cancer Action Network Lead",
+      "Clearwater Historical Society, Pioneer",
+      "Clearwater Homeless Intervention Program, Former Board of Directors",
+      "Florida Tobacco Education and Use Prevention Advisory Council",
+      "Girl Scouts of West Central Florida, Former Board of Directors",
+      "Leadership Pinellas, Past President",
+      "Leadership Tampa Bay",
+      "Metropolitan Planning Council Citizens Advisory Board",
+      "North Dunedin Baptist Church, Former Chair of Trustees",
+      "North Pinellas Republican Club, Past President",
+      "Rotary, Clearwater-East",
+      "Skycrest Christian School, Former Board of Directors",
+      "Suncoast Hospice volunteer",
+      "Guinness World Records, Get Healthy Florida, 2009",
+      "The Order of Salvador Dali, Dame, 2006",
+      "Beacon of Light, Marine Industries Association of Palm Beach, 2005",
+      "Champion of Business Award, Associated Industries of Florida, 2004",
+      "Friend of Medicine Award, Florida Medical Association, 2004",
+      "Representative of the Year, Florida Insurance Council, 2004",
+      "\"A\" Honor Roll, Florida Chamber of Commerce, 2003 and 2005",
+      "Florida Chamber of Commerce, Top 20 Quick Start Legislature Award, 2001",
+      "Legislative Leadership Award, Trust for Public Lands, 2001"
     ]
   },
   {
@@ -566,13 +1017,46 @@
     "district": "1",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4763",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4763&LegislativeTermId=90",
+    "staff": [
+      "Weston Funcheon",
+      "Debra Malsberger"
+    ],
     "phones": [
       "(850) 717-5001",
       "(850) 471-6024"
     ],
-    "staff": [
-      "Weston Funcheon",
-      "Debra Malsberger"
+    "bio": {
+      "Occupation:": "Small Business Owner",
+      "Spouse:": "Phillip Salzman of Norfolk, VA",
+      "Child(ren):": "Richard, Katlynne, Chancellor",
+      "Education:": "Pensacola State College, AAS; University of West Florida, BSBA",
+      "Born:": "July 5, 1977",
+      "Military:": "United States Army, Logistician and Armorer, 5 years; Army Commendation Medal; Army Achievement Medals; Armed Forces Expeditionary Medals and others for exemplary service",
+      "Religious Affiliation:": "Baptist",
+      "Recreational Interest:": "being with her family, fishing, spending time at the shooting range, volunteering in the community"
+    },
+    "extra": [
+      "CivicCon, Founding Member",
+      "Escambia County Public Schools Foundation, Board Member",
+      "Florida Carry",
+      "Gulf Coast Crime Stoppers, Board Member",
+      "Impact 100",
+      "Junior Achievement, Board Member",
+      "Monument to Women Veterans, Board Member",
+      "NRA",
+      "Pensacola Junior League",
+      "Pensacola MESS Hall Foundation, Board Member",
+      "Powerful Women of the Gulf Coast, Member",
+      "Rally Pensacola, Fundraising Board Member",
+      "Seville Rotary, Rotarian",
+      "Studer Community Institute, Fundraising Board Member",
+      "Take Stock In Children, Leadership Council",
+      "Achieve Escambia, Founding Leadership Council, former",
+      "City of Pensacola's Mayor Transition Team, Education Chair, former",
+      "Escambia County Council PTA, President, former",
+      "Florida PTA, Board of Directors, former",
+      "Florida Public Relations Association, Pensacola Chapter, former",
+      "VP Image, former"
     ]
   },
   {
@@ -580,44 +1064,73 @@
     "district": "15",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4865",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4865&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5015",
-      "(904) 548-9379"
-    ],
     "staff": [
       "Donovan Bradley",
       "Debbie Plotts",
       "George Spicer"
-    ]
+    ],
+    "phones": [
+      "(850) 717-5015",
+      "(904) 548-9379"
+    ],
+    "bio": {
+      "Occupation:": "Small Business Owner, Cattle Rancher",
+      "Spouse:": "Kimberley A. \"Kim\" Black of Toledo, OH",
+      "Child(ren):": "Nathan, Savannah, Hunter, Alanna, Silas",
+      "Grandchild(ren):": "Miguel, Mateo",
+      "Education:": "University of Mississippi, BA, Political Science",
+      "Born:": "November 23, 1965, Jacksonville, FL",
+      "Religious Affiliation:": "Christian"
+    }
   },
   {
     "name": "Shoaf, Jason",
     "district": "7",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4756",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4756&LegislativeTermId=90",
+    "staff": [
+      "LeAnn Bunton",
+      "Landry Driver",
+      "Amber Norris"
+    ],
     "phones": [
       "(850) 717-5007",
       "(850) 295-5680",
       "(850) 295-5680"
     ],
-    "staff": [
-      "LeAnn Bunton",
-      "Landry Driver",
-      "Amber Norris"
-    ]
+    "bio": {
+      "Occupation:": "Natural Gas/Propane Utility",
+      "Spouse:": "Ashley Shoaf of Tallahassee, FL",
+      "Child(ren):": "William, Madelyn",
+      "Education:": "Tallahassee Community College, Florida State University",
+      "Born:": "September 20, Panama City, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "camping, family, fishing, hunting"
+    }
   },
   {
     "name": "Borrero, David",
     "district": "111",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4794",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794&LegislativeTermId=90",
+    "staff": [
+      "Raquel Zuniga",
+      "Miguel Granda"
+    ],
     "phones": [
       "(850) 717-5111",
       "(786) 336-1022"
     ],
-    "staff": [
-      "Raquel Zuniga",
-      "Miguel Granda"
+    "bio": {
+      "Occupation:": "Construction",
+      "Education:": "Florida International University, BA, Political Science and Economics, 2012; Florida International University, MBA; St. Thomas University School of Law, JD",
+      "Born:": "December 14, 1988, Queens, New York City, NY",
+      "Moved to Florida:": "2004",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "chess, fishing, running"
+    },
+    "extra": [
+      "Urban Land Institute, member"
     ]
   },
   {
@@ -625,14 +1138,31 @@
     "district": "35",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4773",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4773&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5035",
-      "(407) 249-4204"
-    ],
     "staff": [
       "Ben Rembaum",
       "Kayla Derrick",
       "Rocky Haag"
+    ],
+    "phones": [
+      "(850) 717-5035",
+      "(407) 249-4204"
+    ],
+    "bio": {
+      "Occupation:": "Education Foundation President",
+      "Spouse:": "Tiffany Hawkins of Lakeland, FL",
+      "Child(ren):": "Kendrie Hawkins",
+      "Education:": "University of Akron, BS, Political Science, Pre-Law",
+      "Born:": "July 11, 1967, OH",
+      "Moved to Florida:": "1973",
+      "Religious Affiliation:": "Baptist",
+      "Recreational Interest:": "cooking, Dallas Cowboys football, Florida Gators sports, golf, rodeo, running, working out"
+    },
+    "extra": [
+      "Osceola County, Planning Commission, 1998-2007",
+      "Kissimmee Valley Livestock Association",
+      "Silver Spurs Riding Club",
+      "Boy Scouts Silver Beaver Award",
+      "Former Professional Rodeo Cowboy"
     ]
   },
   {
@@ -640,27 +1170,47 @@
     "district": "80",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4782",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4782&LegislativeTermId=90",
+    "staff": [
+      "Julie Inman",
+      "James Mullen"
+    ],
     "phones": [
       "(850) 717-5080",
       "(239) 949-6279"
     ],
-    "staff": [
-      "Julie Inman",
-      "James Mullen"
-    ]
+    "bio": {
+      "Occupation:": "Carnival Industry, Food and Beverage; Marina Industry Small Business Owner",
+      "Education:": "GED",
+      "Born:": "April 27, 1984, Naples, FL",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "boating, cooking, travel"
+    }
   },
   {
     "name": "Sirois, Tyler I.",
     "district": "31",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4748",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4748&LegislativeTermId=90",
+    "staff": [
+      "Kelsey Chase",
+      "Sarah Mieczkowski"
+    ],
     "phones": [
       "(850) 717-5031",
       "(321) 449-5111"
     ],
-    "staff": [
-      "Kelsey Chase",
-      "Sarah Mieczkowski"
+    "bio": {
+      "Occupation:": "Site Development",
+      "Spouse:": "Katy Lynn Sirois of Tallahassee, FL",
+      "Child(ren):": "2",
+      "Education:": "Florida State University, 2006",
+      "Born:": "Cape Canaveral, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "boating, cooking, fishing, history, time with family"
+    },
+    "extra": [
+      "Friends of the Children's Advocacy Center of Brevard",
+      "Space Coast Civilian-Military Relations Council"
     ]
   },
   {
@@ -668,27 +1218,53 @@
     "district": "34",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4870",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4870&LegislativeTermId=90",
+    "staff": [
+      "Nitin Aggarwal",
+      "Susan Aguirre"
+    ],
     "phones": [
       "(850) 717-5034",
       "(772) 778-5005"
     ],
-    "staff": [
-      "Nitin Aggarwal",
-      "Susan Aguirre"
-    ]
+    "bio": {
+      "Occupation:": "Corporate Managing Partner/Director",
+      "Spouse:": "Samantha \"Sam\" Brackett of El Paso, TX",
+      "Child(ren):": "Reagan Brackett, Bailey Montmarquette, Tia Bailey",
+      "Education:": "Vero Beach High School, 1981; Lipscomb University, BS, Marketing, Economics Minor, 1985",
+      "Born:": "April 9, 1963, Vero Beach, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "boating, hunting, tennis"
+    }
   },
   {
     "name": "Holcomb, Jeff",
     "district": "53",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4890",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4890&LegislativeTermId=90",
+    "staff": [
+      "Alyssa Nienhuis",
+      "Tanya Rivera"
+    ],
     "phones": [
       "(850) 717-5053",
       "(352) 688-5004"
     ],
-    "staff": [
-      "Alyssa Nienhuis",
-      "Tanya Rivera"
+    "bio": {
+      "Occupation:": "Realtor, US Navy Reserve Intelligence Officer",
+      "Spouse:": "Stacey",
+      "Child(ren):": "2 Daughters",
+      "Education:": "University of Maryland, Baltimore County, BA, Economics; American Military University, MA, with honors in Intelligence Studies",
+      "Military:": "Lieutenant, US Navy Reserve, 2006-Present; Deployed to Operation Inherent Resolve; supported Operation Enduring Freedom, Operation Iraqi Freedom, Operation Resolute Support, Area of Operation - US CENTCOM and US AFRICOM",
+      "Moved to Florida:": "2002",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "football, history, military, politics"
+    },
+    "extra": [
+      "Hernando Education Foundation",
+      "Medical Examiner Board",
+      "Municipal Planning Organization",
+      "TBARTA",
+      "Withlacoochee Regional Water Supply Authority"
     ]
   },
   {
@@ -696,13 +1272,27 @@
     "district": "38",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4718",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4718&LegislativeTermId=90",
+    "staff": [
+      "Kathy Johnson",
+      "Ezequiel Rodriguez"
+    ],
     "phones": [
       "(850) 717-5038",
       "(407) 971-3570"
     ],
-    "staff": [
-      "Kathy Johnson",
-      "Ezequiel Rodriguez"
+    "bio": {
+      "Occupation:": "Business Consultant",
+      "Education:": "Texas A&M University, BBA, 1982; Florida Institute of Technology, MS, 2000",
+      "Born:": "March 17, Aberdeen Proving Grounds, MD",
+      "Military:": "United States Marine Corps, Colonel, UH-1N Helicopter Pilot, Retired; Legion of Merit (2), Meritorious Service Medal (3), Air Medal \"V\" (2), Navy Commendation Medal (3), Navy Achievement Medal, Operation Iraqi Freedom Service Medal, Sea Service Deployment (6)",
+      "Moved to Florida:": "1972",
+      "Religious Affiliation:": "Southern Baptist",
+      "Recreational Interest:": "college football, cycling, live music concerts, sky diving"
+    },
+    "extra": [
+      "Leadership Orlando Class #78 and Leadership Seminole Class #26",
+      "Rotary Club International",
+      "Veterans of Foreign Wars"
     ]
   },
   {
@@ -710,14 +1300,35 @@
     "district": "10",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4708",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=90",
+    "staff": [
+      "Jason Carter",
+      "Alisa Bergmann"
+    ],
     "phones": [
       "(850) 717-5010",
       "(386) 758-0405",
       "(904) 259-0995"
     ],
-    "staff": [
-      "Jason Carter",
-      "Alisa Bergmann"
+    "bio": {
+      "Occupation:": "Retired Chief Investigator, Baker County Sheriff's Office; former Deputy U.S. Marshal; Lifelong Cattleman; Residential Rental Property Owner",
+      "Spouse:": "Lorelie Papel Brannan",
+      "Child(ren):": "Chase, Rafe",
+      "Education:": "Lake City Community College, AA; University of Florida, BA, Alpha Gamma Rho Fraternity, Justice of the Student Traffic Court, President's Award for Outstanding Contributions to the University of Florida",
+      "Born:": "February 1, 1962",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "attending University of Florida football games, history buff, raising show cattle, snow skiing, summer watersports"
+    },
+    "extra": [
+      "Baker County Jaycees, Vice President",
+      "Baker County Republican Party, Chairman",
+      "Baker County School System Vocational and Technical Advisory Board",
+      "Florida Cattlemen's Association",
+      "Florida Farm Bureau",
+      "Florida Gateway College Board of Trustees, past Chairman, past Vice Chairman",
+      "Florida Gateway College Foundation Executive Board",
+      "Lake City Community College Board of Trustees",
+      "Macclenny Lions Club, twice President",
+      "North Florida Cattlemen's Association Board of Directors"
     ]
   },
   {
@@ -725,28 +1336,52 @@
     "district": "59",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4886",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4886&LegislativeTermId=90",
+    "staff": [
+      "Luke Midura",
+      "Amanda Suarez"
+    ],
     "phones": [
       "(850) 717-5059",
       "(727) 519-0560"
     ],
-    "staff": [
-      "Luke Midura",
-      "Amanda Suarez"
-    ]
+    "bio": {
+      "Occupation:": "Attorney, Nonprofit Director",
+      "Education:": "Washington Adventist University, History, Political Studies, 2005-2009, Mock Trial, Student Government, track and field; Stetson University College of Law, JD, 2009-2012, Trial Team",
+      "Born:": "Port-au-Prince, Haiti",
+      "Moved to Florida:": "1994",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "golf, reading"
+    }
   },
   {
     "name": "Snyder, John",
     "district": "86",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4787",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=90",
+    "staff": [
+      "Sarah Craven",
+      "Catherine Thomson"
+    ],
     "phones": [
       "(850) 717-5086",
       "(772) 210-5626",
       "(772) 210-5626"
     ],
-    "staff": [
-      "Sarah Craven",
-      "Catherine Thomson"
+    "bio": {
+      "Occupation:": "Business Owner, Staffing and Payroll Services",
+      "Spouse:": "Brittany Snyder of FL",
+      "Child(ren):": "Elizabeth, Reagan",
+      "Education:": "Indiana Wesleyan University, BS, Marketing",
+      "Born:": "April 13, 1987, FL",
+      "History:": "Father, William D. Snyder, Florida House of Representatives, 2006-2012; Martin County Sheriff, 2012-present",
+      "Military:": "United States Marine Corps, 2007-2012, Deployed to Afghanistan in support of Operation Enduring Freedom",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "Miami Dolphins, Miami Heat, golf, spending time with family"
+    },
+    "extra": [
+      "Martin County Republican Executive Committee",
+      "Place of Hope, Leadership Advisory Council",
+      "Treasure Coast Classical Academy, Leadership Team"
     ]
   },
   {
@@ -754,13 +1389,33 @@
     "district": "108",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4716",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4716&LegislativeTermId=90",
+    "staff": [
+      "Daniella Dominique",
+      "Jack Kniseley"
+    ],
     "phones": [
       "(850) 717-5108",
       "(305) 892-4296"
     ],
-    "staff": [
-      "Daniella Dominique",
-      "Jack Kniseley"
+    "bio": {
+      "Occupation:": "Attorney",
+      "Education:": "Yale College, BA, 2001; Georgetown University Law Center, JD, 2005",
+      "Born:": "Haiti",
+      "Moved to Florida:": "1982",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "culture and travel, empowerment, visual and performing arts"
+    },
+    "extra": [
+      "Eglise Beraca, Youth Director and Sunday School Teacher",
+      "Human Rights First, Frankel Fellow",
+      "Miami-Dade County Black Affairs Advisory Board, member",
+      "Miami-Dade County Democratic Executive Committee, First Vice Chair",
+      "The Florida Bar, Federal Court Practice Committee, member",
+      "Florida Trend Magazine, Florida Legal Elite Government Attorney",
+      "Haitian American Chamber of Commerce of Florida, Top 20 Under 40 Young Professionals",
+      "Legacy Magazine, 40 Under 40 Award",
+      "Miami-Dade County Board of County Commissioners, Woman of Substance Award",
+      "Run for Something, Getting it Done National Alumni Awards"
     ]
   },
   {
@@ -768,13 +1423,36 @@
     "district": "47",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4878",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4878&LegislativeTermId=90",
+    "staff": [
+      "Mercedes Fonseca",
+      "Peter Vivaldi"
+    ],
     "phones": [
       "(850) 717-5047",
       "(407) 846-5150"
     ],
-    "staff": [
-      "Mercedes Fonseca",
-      "Peter Vivaldi"
+    "bio": {
+      "Occupation:": "Newspaper Publisher, Executive Director",
+      "Spouse:": "Joel C. \"J.D.\" Davis of Canton, OH",
+      "Child(ren):": "Nicholas B. Stark, Taylor A. Stark",
+      "Education:": "Osceola High School; Florida Technical University",
+      "Born:": "April 11, 1957, Dothan, AL",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "work"
+    },
+    "extra": [
+      "City of St. Cloud Historic Preservation Board",
+      "Kissimmee/Osceola County Chamber of Commerce",
+      "Osceola Center for the Arts",
+      "Osceola County YMCA",
+      "Senior Little League",
+      "St. Cloud Business Group",
+      "St. Cloud Chamber of Commerce",
+      "St. Cloud Economic Stimulus Grant Committee",
+      "St. Cloud Main Street",
+      "Florida Press Association Account Executive of the Month, 2001",
+      "St. Cloud Rotary, Business Person of the Year, 1999",
+      "Employee of the Year, 1993"
     ]
   },
   {
@@ -782,27 +1460,53 @@
     "district": "114",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4800",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4800&LegislativeTermId=90",
+    "staff": [
+      "Austin Sparber",
+      "Jose Dominguez"
+    ],
     "phones": [
       "(850) 717-5114",
       "(305) 442-6808"
     ],
-    "staff": [
-      "Austin Sparber",
-      "Jose Dominguez"
-    ]
+    "bio": {
+      "Occupation:": "Nonprofit Development Director",
+      "Spouse:": "Kevin Marino Cabrera of Miami, FL",
+      "Education:": "Florida State University, BS",
+      "Born:": "November 4, 1990, Cape Coral, FL",
+      "Religious Affiliation:": "Catholic"
+    }
   },
   {
     "name": "Killebrew, Sam H.",
     "district": "48",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4644",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4644&LegislativeTermId=90",
+    "staff": [
+      "Ranay Willis",
+      "None"
+    ],
     "phones": [
       "(850) 717-5048",
       "(863) 291-5254"
     ],
-    "staff": [
-      "Ranay Willis",
-      "None"
+    "bio": {
+      "Occupation:": "Retired",
+      "Spouse:": "Eileen of Lake Wales, FL",
+      "Child(ren):": "Heidi, Shane, Kristin, Cameron, Erin",
+      "Grandchild(ren):": "Logan, Sammy, Coy, Jocelyn, Riley, Joseph, Peyton",
+      "Born:": "April 13, 1945, Lakeland, FL",
+      "Military:": "United States Navy, former service",
+      "Religious Affiliation:": "Presbyterian"
+    },
+    "extra": [
+      "Haines City Chamber of Commerce, member",
+      "Lake Alfred Chamber of Commerce, member",
+      "Winter Haven Chamber of Commerce, President, 2007-2008, current member",
+      "Veterans and Military Families Caucus, Clerk, 2017",
+      "Polk County Sheriff's Advisory Council, 2006-2007",
+      "Florida Chamber of Commerce, Honor Roll, 2018",
+      "Able Trust, Representative of the Year, 2017",
+      "Florida Farm Bureau Federation of Polk County, Champion for Agriculture, 2017"
     ]
   },
   {
@@ -810,27 +1514,48 @@
     "district": "55",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4881",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4881&LegislativeTermId=90",
+    "staff": [
+      "Alex Crispin",
+      "Becky Zizzo"
+    ],
     "phones": [
       "(850) 717-5055",
       "(727) 861-1898"
     ],
-    "staff": [
-      "Alex Crispin",
-      "Becky Zizzo"
-    ]
+    "bio": {
+      "Occupation:": "CEO, Retired",
+      "Education:": "University of South Florida",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "diving, fishing, hunting"
+    }
   },
   {
     "name": "Koster, Traci",
     "district": "66",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4779",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4779&LegislativeTermId=90",
+    "staff": [
+      "Audette Bruce",
+      "Rachel Frampton"
+    ],
     "phones": [
       "(850) 717-5066",
       "(813) 269-3759"
     ],
-    "staff": [
-      "Audette Bruce",
-      "Rachel Frampton"
+    "bio": {
+      "Occupation:": "Marital and Family Law Attorney",
+      "Child(ren):": "Colton, Sadie",
+      "Education:": "University of Central Florida, BS, Legal Studies, Criminal Justice minor; Stetson University of Law, JD, 2007-2009",
+      "Born:": "June 15, 1985, Greensboro, NC",
+      "Moved to Florida:": "1988",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "beach, boating, reading, spending time with family"
+    },
+    "extra": [
+      "Tampa Bay Pro Bono Partners, Co-Founder and Co-Chair",
+      "Hillsborough County Bar Association, Young Lawyers Division, President, 2019-2020",
+      "Hillsborough Education Foundation, mentor, 2017-2020",
+      "Thirteenth Judicial Circuit, Outstanding Pro Bono Service by Young Lawyer Award, 2015"
     ]
   },
   {
@@ -838,13 +1563,26 @@
     "district": "18",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4620",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4620&LegislativeTermId=90",
+    "staff": [
+      "None",
+      "Shorty Robbins"
+    ],
     "phones": [
       "(850) 717-5018",
       "(904) 823-2300"
     ],
-    "staff": [
-      "None",
-      "Shorty Robbins"
+    "bio": {
+      "Occupation:": "Certified Public Accountant (CPA)",
+      "Spouse:": "Henry Stevenson",
+      "Child(ren):": "Paul, Wes",
+      "Education:": "Stetson University, BBA, 1981",
+      "Born:": "Daytona Beach, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "bicycling, fishing, heritage tourism, kayaking"
+    },
+    "extra": [
+      "Leadership St. Johns",
+      "Northeast Florida Regional Leadership Academy St. Johns River Alliance, Chair"
     ]
   },
   {
@@ -852,27 +1590,128 @@
     "district": "50",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4879",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4879&LegislativeTermId=90",
+    "staff": [
+      "Rachel Barnes",
+      "AnneK Bell"
+    ],
     "phones": [
       "(850) 717-5050",
       "(863) 450-4795"
     ],
-    "staff": [
-      "Rachel Barnes",
-      "AnneK Bell"
-    ]
+    "bio": {
+      "Occupation:": "Teacher",
+      "Spouse:": "Charles T. Canady of Lakeland, FL",
+      "Child(ren):": "Julia Canady, Anna Canady",
+      "Education:": "Florida State University, BS, Elementary Education, 1992-1995; University of South Florida, MA, Special Education, 2011-2014",
+      "Born:": "July 22, 1973, Lakeland, FL",
+      "Religious Affiliation:": "Presbyterian",
+      "Recreational Interest:": "gardening, hiking, reading, traveling"
+    }
   },
   {
     "name": "LaMarca, Chip",
     "district": "100",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4722",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4722&LegislativeTermId=90",
+    "staff": [
+      "Samantha Verner",
+      "Stephanie Jarkow"
+    ],
     "phones": [
       "(850) 717-5100",
       "(954) 784-4531"
     ],
-    "staff": [
-      "Samantha Verner",
-      "Stephanie Jarkow"
+    "bio": {
+      "Occupation:": "Business Owner, Consultant",
+      "Spouse:": "Eileen LaMarca of Fort Lauderdale, FL",
+      "Education:": "Broward College, AA, Information Systems; Florida Atlantic University, Business Information Systems",
+      "Born:": "March 16, Winchester, MA",
+      "Moved to Florida:": "1971",
+      "Religious Affiliation:": "Roman Catholic",
+      "Recreational Interest:": "boating, fishing, music (drums), walking and enjoying our beautiful beaches"
+    },
+    "extra": [
+      "Broward County Commission Beach Renourishment Liaison, 2015 - 2018",
+      "Broward County Courthouse Task Force Advisory Committee-Chair, 2010 - 2011",
+      "Broward County Cultural Council, Board of Directors, 2018",
+      "Fire Rescue Council, Board of Directors, 2010 - 2017",
+      "Public Safety Coordinating Council, Board of Directors, 2014 - 2017",
+      "Regional Emergency Medical Services Council, 2010 - 2017",
+      "School Oversight Committee, Board of Directors, 2010 - 2013",
+      "Take 5 to Stay Alive, EMS Task Force, 2012 - 2017",
+      "Tourist Development Council, Chair of the Board of Directors, 2017 - 2018",
+      "Florida Association of Counties: Member of the Board of Directors-District 32, 2014 - 2018",
+      "Florida Association of Counties:",
+      "Member of the Board of Directors-District 33, 2011 - 2014",
+      "Finance and Tax Administration Policy Committee, Chair, 2015 - 2018, Co-Chair, 2013 - 2015, and Vice-Chair 2012 - 2013",
+      "Advanced County Commissioner Program, 2013",
+      "Certified County Commissioner Program, 2012",
+      "FAC Torchbearer Program, 2013 - 2018",
+      "FAC Ambassador Program, 2014 - 2015",
+      "Presidential Advocate Award, 2013 - 2016",
+      "Presidential Service Award, 2017",
+      "Florida Association of Counties:",
+      "President\u2019s Commitment to Service Award, 2018",
+      "Member of the Board of Directors, 2015 - 2018",
+      "Finance, Pensions and Intergovernmental Affairs Policy Steering Committee, Chair, 2016 - 2018",
+      "Large Urban County Caucus, Member, 2012 - 2013, Vice-Chair",
+      "2013 - 2016",
+      "Community, Economic & Workforce Development Steering Committee, 2012 - 2016",
+      "City of Lighthouse Point:",
+      "City Commissioner, 2005 - 2008, President, 2007 - 2008, Vice-President",
+      "2006 - 2007, 2010",
+      "Lighthouse Keeper Days Committee, Member, 2005 - 2010",
+      "Code Enforcement Board, Member, 2004 - 2010",
+      "Community Appearance Board, Member, 2003 - 2004",
+      "Traffic Calming Committee, Member, 2002 - 2005",
+      "Community Enhancement Committee, Member, 2002 - 2005",
+      "Landscape Architectural Selection Committee, Member, 2003",
+      "Architectural Selection Committee for new Police/Fire/EMS, 2002",
+      "Broward Republican Executive Committee:",
+      "Chairman of the Broward County Republican Party (Elected twice, no opposition), 2007 - 2010",
+      "Committeeman Precinct 6B, 2003 - 2016",
+      "Republican of the Year Award, 2005",
+      "Republican Party of Florida:",
+      "Board of Directors Caucus Chairman (Congressional District 17), 2008 - 2010",
+      "Chairman of the Statewide Voter Registration Task Force, 2009 - 2010",
+      "Republican National Committee:",
+      "Sustaining Member, 1997 - Present",
+      "2004 Presidential Election \u201cTeam Leader\u201d",
+      "2000 Presidential Election Committee",
+      "Broward County Young Republicans:",
+      "Director of Political Action Committees/Social Chairman, 2002 - 2003",
+      "2000 Presidential Election Recount Team, 2000",
+      "Broward Children\u2019s Center, Board of Directors, 2006 - 2019",
+      "Children\u2019s Healing Institute, Member of the Board of Directors, 2004 - 2007",
+      "Children\u2019s Healing Institute, Secretary of the Board of Directors, 2004 - 2005",
+      "Children's Safety Council, Water Angels Board of Directors, 2010 - 2012",
+      "Cystic Fibrosis Foundation, Co-Chair of SFL Finest Couples, 2009 - 2010",
+      "Cystic Fibrosis Foundation, Honored as SFL Finest Couples, 2008",
+      "DEA Citizens Academy Certificate of Achievement, 2013",
+      "Emerald Society of Ft. Lauderdale\u2019s Honorary Irish Person of the Year, 2018",
+      "Exchange Club of Pompano Beach, Board of Directors, 2010 - 2018",
+      "Exchange Club of Pompano Beach, Club President, 2007 - 2008",
+      "Exchange Club of Pompano Beach, Club Vice-President, 2006 - 2007",
+      "Exchange Club of Pompano Beach, Club Secretary, 2005 - 2006",
+      "Exchange Club of Pompano Beach, Member, 2003 - 2019",
+      "FBI Citizens Academy Certificate of Achievement, 2012",
+      "Federal Courthouse Task Force-Southern Dist of FL, Member (Appt by Federal Judge), 2017 - 2018",
+      "Florida Healthy Kids Corporation, Board of Directors Member (Appt by Florida CFO), 2016 - 2018",
+      "Florida Restaurant and Lodging Association, Hospitality Ambassador of the Year, 2018",
+      "Florida State Fair Authority (Appt by Florida Commissioner of Agriculture), 2011 - 2017",
+      "Greater Fort Lauderdale Alliance, Board of Directors (County Commission Liaison), 2013 - 2017",
+      "Greater Fort Lauderdale Alliance, Six Pillars Strategic Plan, Committee Co-Chair, 2012",
+      "Leadership Florida, Member of Cornerstone Class XXXII, 2013 - 2014",
+      "Leadership Florida Member of Gold Coast Leadership Council, 2014 - 2015",
+      "Leadership Florida Member of Gold Coast Recruitment Committee, 2015 - 2016",
+      "Leadership Florida Member of Leadership Florida Awards Committee, 2016 - 2018",
+      "Museum of Discovery and Science, Board of Directors, 2016 - 2019",
+      "Riverwalk Trust, Board of Directors, Member, 2014 - 2018",
+      "Riverwalk Trust, 9/11 Monument Committee Co-Chair, 2018",
+      "Sample McDougald House Preservation Society, Honorary Board Member, 2017 \u2013 2018",
+      "Special Olympics of Broward, Honorary Board of Directors, 2008 - 2019",
+      "Special Olympics of Broward, Distinguished Volunteer Award",
+      "2018"
     ]
   },
   {
@@ -880,13 +1719,33 @@
     "district": "87",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4754",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4754&LegislativeTermId=90",
+    "staff": [
+      "Walter Buikus",
+      "Eva Sazonova"
+    ],
     "phones": [
       "(850) 717-5087",
       "(561) 650-1066"
     ],
-    "staff": [
-      "Walter Buikus",
-      "Eva Sazonova"
+    "bio": {
+      "Occupation:": "Certified Public Accountant",
+      "Spouse:": "Tracy Lee \"Tracy\" Caruso of New York City, NY",
+      "Child(ren):": "Christy, Michael, Andrew, Caroline, JohnPaul, Kimmy, Danny",
+      "Grandchild(ren):": "Henry, Liliana, James",
+      "Education:": "The George Washington University, BBA, Accounting",
+      "Born:": "Washington, DC",
+      "Moved to Florida:": "1986",
+      "Religious Affiliation:": "Protestant",
+      "Recreational Interest:": "fishing, tennis, waterskiing"
+    },
+    "extra": [
+      "Villas of Ocean Crest Homeowners Association, President",
+      "Atlantic Grove Condominium Association, President",
+      "Delray Beach National Little League Coach for over 30 years",
+      "Cub Scout and Boy Scout Leader",
+      "Delray Beach Parking Management Advisory Board, former member",
+      "West Atlantic Redevelopment Coalition, former member",
+      "WARC Economic Committee, former co-chair"
     ]
   },
   {
@@ -894,41 +1753,76 @@
     "district": "28",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4662",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=90",
+    "staff": [
+      "Stephanie Wohlford",
+      "Lynnette Phillips"
+    ],
     "phones": [
       "(850) 717-5028",
       "(386) 238-4865"
     ],
-    "staff": [
-      "Stephanie Wohlford",
-      "Lynnette Phillips"
-    ]
+    "bio": {
+      "Occupation:": "Chief Legal Officer",
+      "Spouse:": "Michelle of Delaware",
+      "Child(ren):": "Alexandria J. Leek, Sarah E. Leek",
+      "Education:": "University of Central Florida, BA, 1992; Stetson University College of Law, JD, 1997",
+      "Born:": "August 6, Columbus, OH",
+      "Religious Affiliation:": "Presbyterian",
+      "Recreational Interest:": "boating, college football, fishing"
+    }
   },
   {
     "name": "Temple, John Paul",
     "district": "52",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4880",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4880&LegislativeTermId=90",
+    "staff": [
+      "Marlon Diaz",
+      "Nancy Bowers"
+    ],
     "phones": [
       "(850) 717-5052",
       "(352) 315-4445"
     ],
-    "staff": [
-      "Marlon Diaz",
-      "Nancy Bowers"
-    ]
+    "bio": {
+      "Occupation:": "Education",
+      "Spouse:": "Jessica Temple",
+      "Child(ren):": "Jenna, Julia",
+      "Education:": "Southeastern University, BS, Math Education 6-12; NOVA Southeastern, MS, Education Leadership",
+      "Born:": "May 11, 1976, TX",
+      "Moved to Florida:": "1981",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "golfing, spending time with family and friends, Tampa Bay Buccaneers"
+    }
   },
   {
     "name": "Tomkow, Josie",
     "district": "51",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4704",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4704&LegislativeTermId=90",
+    "staff": [
+      "Barbara Blasingame",
+      "Robyn Bryant"
+    ],
     "phones": [
       "(850) 717-5051",
       "(863) 968-5666"
     ],
-    "staff": [
-      "Barbara Blasingame",
-      "Robyn Bryant"
+    "bio": {
+      "Occupation:": "Cattle Rancher",
+      "Education:": "University of Florida, BA",
+      "Born:": "October 15, 1995, Tampa, FL",
+      "Religious Affiliation:": "Episcopal",
+      "Recreational Interest:": "Gator football, hunting, traveling"
+    },
+    "extra": [
+      "Florida 4-H, Legislative Champion Award, 2020",
+      "Florida Federation of Republican Women, Legislator of the Year, 2020",
+      "Florida Public Broadcasting, Legislative Champion Award, 2020",
+      "Florida Chamber of Commerce, Honor Roll, 2019, 2020",
+      "Florida Farm Bureau, Champion for Agriculture 2019, 2020",
+      "American Conservative Union Foundation, Conservative Excellence Award, 2019",
+      "Florida Coalition for Children, Legislator of the Year, 2019"
     ]
   },
   {
@@ -936,13 +1830,43 @@
     "district": "113",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4896",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4896&LegislativeTermId=90",
+    "staff": [
+      "Ale Marchesani",
+      "None"
+    ],
     "phones": [
       "(850) 717-5113",
       "(305) 854-0365"
     ],
-    "staff": [
-      "Ale Marchesani",
-      "None"
+    "bio": {
+      "Occupation:": "Consultant",
+      "Child(ren):": "Donald F. Wolfe III",
+      "Education:": "University of Notre Dame, BBA, Accounting",
+      "Born:": "March 28, Tampa, FL",
+      "History:": "\u00b7\u00a0Sister - Michelle McLeod, City of Naples City Council - March 2016-2020",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "cooking, entertaining, fine dining, horseback riding, meditation, music, reading, spending time with family, traveling, volunteering, walking, water sports, yoga"
+    },
+    "extra": [
+      "Florida Senate Juvenile Justice Education Work Group, appointed by Senator Stephen Wise, member, 2011-2012",
+      "Florida Department of Corrections, Reentry Advisory Council, Vice Chair, appointed by Secretary Walt McNeil, 2008-2011",
+      "Governor\u2019s Ex-Offender Task Force, appointed by Governor Jeb Bush, Chairman 2005-2007",
+      "Lee County Commission, November 1990-January 1993",
+      "Industry/Government Affairs Committee, Florida Tourism Commission, Member and Chairman, appointed by Governor Lawton Chiles, 1991-1993",
+      "Florida Foundation for Correctional Excellence, member",
+      "Greater Miami Chamber of Commerce, Board member",
+      "Junior League of Miami, Sustainer and member",
+      "Junior Leagues of Florida: State Public Affairs Committee, Sustainer Advisor and member",
+      "Leadership Miami, alumna",
+      "Leadership Florida, member, alumna",
+      "Notre Dame Club of Greater Miami, former President, member",
+      "Bennett College, Women\u2019s Courage and Vision Award, 2007",
+      "Florida Network of Youth and Family Services, Faces of Courage Girls Award, 2007",
+      "Girls Advocacy Project, Girls Power Award, 2004",
+      "Junior League of Miami, President's Leadership Award, 2004",
+      "Junior League of Miami, Volunteer of the Year Award, 2004",
+      "Junior Leagues of Florida, State Public Affairs Committee, Berta Blecke Award for Outstanding Efforts in Legislative Advocacy, 2004",
+      "Junior League of Miami, President\u2019s Leadership Award, 2003"
     ]
   },
   {
@@ -950,68 +1874,150 @@
     "district": "84",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4788",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4788&LegislativeTermId=90",
+    "staff": [
+      "Sasha O'Kane",
+      "Myishea White"
+    ],
     "phones": [
       "(850) 717-5084",
       "(772) 595-1391"
     ],
-    "staff": [
-      "Sasha O'Kane",
-      "Myishea White"
-    ]
+    "bio": {
+      "Occupation:": "Small Business Owner",
+      "Spouse:": "Paul Trabulsy",
+      "Born:": "March 31, 1964",
+      "Religious Affiliation:": "Catholic",
+      "Recreational Interest:": "cooking, golfing, hiking, reading, volunteering"
+    }
   },
   {
     "name": "Maggard, Randall Scott \"Randy\"",
     "district": "54",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4758",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4758&LegislativeTermId=90",
+    "staff": [
+      "Jeffrey Hawes",
+      "Robin Ringeisen"
+    ],
     "phones": [
       "(850) 717-5054",
       "(813) 780-0667"
     ],
-    "staff": [
-      "Jeffrey Hawes",
-      "Robin Ringeisen"
-    ]
+    "bio": {
+      "Occupation:": "Vice President of Corporation",
+      "Spouse:": "Colleen Maggard",
+      "Child(ren):": "Lee Maggard, Mark Maggard, Samantha Comey",
+      "Education:": "Pasco Hernando State College, AA, 1983",
+      "Born:": "July 4, 1963, Dade City, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "fishing, hunting, spending time with grandchildren, traveling"
+    }
   },
   {
     "name": "Tramont, Chase",
     "district": "30",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4867",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4867&LegislativeTermId=90",
-    "phones": [
-      "(850) 717-5030"
-    ],
     "staff": [
       "Duncan DeMarsh",
       "Beri Bastian"
-    ]
+    ],
+    "phones": [
+      "(850) 717-5030"
+    ],
+    "bio": {
+      "Occupation:": "Senior Pastor",
+      "Spouse:": "Staci Tramont of Buffalo, NY",
+      "Child(ren):": "Shea, Chloe, Jacob, Kennedy Reagan",
+      "Education:": "Flagler College, Bachelor's Degree, Communications, 1998-2002; Bachelor's Degree, History Education, 2005-2007",
+      "Born:": "November 9, 1979, Daytona Beach, FL",
+      "Recreational Interest:": "basketball, making salad dressings, reading, spending time with his children, Texas Hold 'em, working out"
+    }
   },
   {
     "name": "Chaney, Linda",
     "district": "61",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4778",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4778&LegislativeTermId=90",
+    "staff": [
+      "Tristan Sommer",
+      "Tara Ross"
+    ],
     "phones": [
       "(850) 717-5061",
       "(727) 471-4672"
     ],
-    "staff": [
-      "Tristan Sommer",
-      "Tara Ross"
-    ]
+    "bio": {
+      "Occupation:": "Marketing and Business Development",
+      "Spouse:": "William \"Bill\" Yovic",
+      "Education:": "University of South Florida, BS, Mass Communications",
+      "Born:": "June 21, NY",
+      "Moved to Florida:": "1982",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "dog and cat rescue, outdoor activities"
+    }
   },
   {
     "name": "Maney, Patt",
     "district": "4",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4764",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4764&LegislativeTermId=90",
+    "staff": [
+      "Andrew Fay",
+      "Ian Thomson"
+    ],
     "phones": [
       "(850) 717-5004",
       "(850) 833-3713"
     ],
-    "staff": [
-      "Andrew Fay",
-      "Ian Thomson"
+    "bio": {
+      "Occupation:": "Attorney",
+      "Spouse:": "Caroline",
+      "Education:": "University of Kentucky, BA, Political Science, 1966-1970; University of Louisville, Louis D. Brandeis School of Law, JD, 1971-1974; Troy State University, MS, International Relations, 1994-1995; University of Kentucky, Honorary Doctor of Laws, 2016",
+      "History:": "Father, Charles Thomas Maney, Fort Walton Beach City Councilman",
+      "Military:": "University of Kentucky Army ROTC Wall of Honor, 2012; United States Army, active and reserve duty, 1970-2007; Brigadier General, Retired; Overseas service: Panama, Haiti, Bosnia, Afghanistan; Afghan Ghazi Mir Batcha Kahn Superior Medal, 2005",
+      "Moved to Florida:": "1975",
+      "Religious Affiliation:": "Anglican",
+      "Recreational Interest:": "gardening, history, public and international affairs"
+    },
+    "extra": [
+      "Southern Regional Education Board, member",
+      "U.S. Army, Civilian Aide to the Secretary of the Army",
+      "Florida Supreme Court Steering Committee for Problem Solving Courts, 2018-2020",
+      "Mid-Bay Bridge Authority, 2018-2020",
+      "Okaloosa-Walton Transportation Planning Organization, 2019-2020",
+      "Florida Department of Highway Safety & Motor Vehicles DUI Program Review Board, 2001-2018",
+      "Florida Supreme Court Task Force on Mental Health & Substance Abuse, 2010-2018",
+      "Veterans Affairs Readjustment Advisory Committee, 2013-2017",
+      "Florida Defense Support Task Force, 2011-2014",
+      "Disabled American Veterans Outstanding Disabled Veteran of the Year, 2019",
+      "Outstanding Distinguished Alumni, United States Army War College, 2019",
+      "Distinguished Judicial Services on Behalf of Veterans Mental Health, Recognition by Mental Health Association of Okaloosa and Walton Counties, 2018",
+      "Florida Veterans Hall of Fame, 2018",
+      "Local street named \"Judge Maney Way\" by Okaloosa County and the City of Fort Walton Beach, 2018",
+      "Okaloosa Veterans Treatment Court named the \"T. Patt Maney Veterans Treatment Court,\" 2018",
+      "Governor's Medal of Merit, 2017",
+      "Brain Injury Association, Valiant Heart Award, 2015",
+      "Florida Legislation named \"T. Patt Maney Veterans Treatment Intervention Act,\" 2015",
+      "Daughters of the American Revolution National Defense Distinguished Medal, 2014",
+      "Harvey Ford Award, Florida Conference of County Court Judges, 2014",
+      "Colonel George E. \"Bud\" Day Lifetime Achievement Award, Gulf Coast Veterans Advocacy Council, 2012",
+      "Award for Extraordinary Contributions to Mental Health, Mental Health Association of Okaloosa and Walton Counties, 2010",
+      "Patriot of the Year, Military Order of the Purple Heart, 2010",
+      "Veterans Service Award, Okaloosa County Jobs Plus, 2009",
+      "Hildreth Award, Civil Affairs Association, 2007",
+      "Outstanding Contributions to Spreading Democracy Throughout the World Award, Okaloosa-Walton Bar Association, 2007",
+      "Distinguished Service Award, Florida Conference of County Court Judges, 2006",
+      "Military Member of the Year, Crestview Chamber of Commerce, 2006",
+      "Secretary of Defense Outstanding Public Service Award, 2006",
+      "Spirit of Freedom Award, Florida Freedom Newspapers, 2006",
+      "United States Department of State Meritorious Honor Award, 2005",
+      "Citizen of the Year Award, Veterans of Foreign Wars Post 11367, 2004",
+      "Judicial Distinguished Service Award, Florida Council on Crime and Delinquency, Okaloosa County Chapter, 1993, 2004",
+      "Silver Patrick Henry Award, Military Order of World Wars, Okaloosa County Chapter, 2001",
+      "Liberty Bell Award, Okaloosa-Walton County Bar Association, 1998",
+      "Private audience with His Holiness Pope John Paul II, Sarajevo, Bosnia Herzegovina, 1997",
+      "Eagle Scout, 1965"
     ]
   },
   {
@@ -1019,28 +2025,68 @@
     "district": "26",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4772",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4772&LegislativeTermId=90",
+    "staff": [
+      "Eric Raimundo",
+      "Aline Guy"
+    ],
     "phones": [
       "(850) 717-5026",
       "(352) 742-6275"
     ],
-    "staff": [
-      "Eric Raimundo",
-      "Aline Guy"
-    ]
+    "bio": {
+      "Occupation:": "Agribusiness",
+      "Spouse:": "Dodi H. Truenow of Eustis, FL",
+      "Child(ren):": "Dylan Truenow, Ashton Truenow",
+      "Education:": "Leesburg High School",
+      "Born:": "August 9, 1969, St. Cloud, MN",
+      "Military:": "United States Air Force, Veteran",
+      "Moved to Florida:": "1979",
+      "Religious Affiliation:": "Lutheran",
+      "Recreational Interest:": "boating, family camping, fishing, hiking, kayaking"
+    }
   },
   {
     "name": "Clemons, Sr., Charles Wesley \"Chuck\"",
     "district": "22",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4655",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4655&LegislativeTermId=90",
+    "staff": [
+      "Mike Murtha",
+      "Robin Steele"
+    ],
     "phones": [
       "(850) 717-5022",
       "(352) 313-6542",
       "(352) 313-6542"
     ],
-    "staff": [
-      "Mike Murtha",
-      "Robin Steele"
+    "bio": {
+      "Occupation:": "College Administrator",
+      "Spouse:": "Jane Clemons of Cincinnati, OH",
+      "Child(ren):": "Shayna, Charlie, Travis, Weston",
+      "Grandchild(ren):": "Christian, Jack, Henry",
+      "Education:": "Florida Gateway College, AA, 1977; University of Florida, BS, 1979",
+      "Born:": "June 21, 1957, Miami Beach, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "motorcycle touring, outdoors, travel"
+    },
+    "extra": [
+      "Florida Blue Key, member",
+      "Alachua Chamber of Commerce, former member",
+      "Alachua County Board of County Commissioners, former Chair",
+      "Alachua County Library Board of Governors, former Vice Chair",
+      "Fightin' Gator Touchdown Club, former President",
+      "Florida Association of Counties, former board member",
+      "Florida Council for Resource Development, Florida College System, former President",
+      "Florida State Fair Authority, former board member",
+      "Gainesville Area Chamber of Commerce, former board member",
+      "Kiwanis Club Foundation Inc., former President",
+      "Kiwanis Club of the University City, former President",
+      "Leadership Gainesville Alumni, former President",
+      "Metropolitan Transportation and Planning, former Chair",
+      "North Central Florida American Red Cross, former board member",
+      "North Central Florida Regional Planning Council, former member",
+      "W. W. Irby Parent Teacher Association, former President",
+      "University of Florida, Alpha Gamma Rho, Agriculture social and professional fraternity, President, 1979"
     ]
   },
   {
@@ -1048,43 +2094,101 @@
     "district": "23",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4624",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4624&LegislativeTermId=90",
+    "staff": [
+      "Adele Hembree",
+      "Dorothy Dilworth"
+    ],
     "phones": [
       "(850) 717-5023",
       "(352) 560-6075"
     ],
-    "staff": [
-      "Adele Hembree",
-      "Dorothy Dilworth"
-    ]
+    "bio": {
+      "Occupation:": "Dermatologist",
+      "Spouse:": "Patricia Lynn \"Patty\" of Uniontown, PA",
+      "Child(ren):": "Kelin, Alexa, Blake, Jeremy",
+      "Grandchild(ren):": "Reagan",
+      "Education:": "West Virginia University, BSIE, MD",
+      "Born:": "Morgantown, WV",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "biking, flying, skiing"
+    }
   },
   {
     "name": "Tuck, Kaylee",
     "district": "83",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4776",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4776&LegislativeTermId=90",
+    "staff": [
+      "Brilyn Sell",
+      "Jamie Adair",
+      "Dana Orr"
+    ],
     "phones": [
       "(850) 717-5083",
       "(863) 386-6000",
       "(863) 462-5019"
     ],
-    "staff": [
-      "Brilyn Sell",
-      "Jamie Adair",
-      "Dana Orr"
-    ]
+    "bio": {
+      "Occupation:": "Real Estate/Land Use Attorney",
+      "Education:": "Florida State University, BS, Economics, 2012-2014; Stetson University College of Law, JD, 2015-2018",
+      "Born:": "May 30, 1994, Winter Haven, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "off-road racing, traveling"
+    }
   },
   {
     "name": "McClain, Stan",
     "district": "27",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4658",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4658&LegislativeTermId=90",
+    "staff": [
+      "Ryan Thomas",
+      "Jennifer Treiber"
+    ],
     "phones": [
       "(850) 717-5027",
       "(352) 732-1313"
     ],
-    "staff": [
-      "Ryan Thomas",
-      "Jennifer Treiber"
+    "bio": {
+      "Occupation:": "State Certified Residential Contractor",
+      "Spouse:": "Jessica E. McClain",
+      "Child(ren):": "Amanda, Morganne, Matt, Katie, Olivia, Zach, Hope, Andy, Josh, Luke, Will",
+      "Grandchild(ren):": "Chance, Zoey, Jackson, Gage, Danny, Abby, Nate, Camille, Adelaide, Brighton, Gavin, Titus, Presley, Grant, Lachlan, Nora Ricki Langer",
+      "Born:": "July 7, 1961, Norfolk, VA",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "fishing, golf, youth sports"
+    },
+    "extra": [
+      "Marion County Board of County Commissioners, Elected & Honorably Served: 2004-2008, 2008-2012, 2012-2016",
+      "Florida Farm Bureau, current member",
+      "Florida Home Builders Association, current member",
+      "Marion County Building Industry Association, current member",
+      "Olivet Baptist Church, current member",
+      "Ocala/Marion County Economic Development Corporation, past member",
+      "Southwest Florida Water Management District, Springs Coast Steering Committee, past member",
+      "Withlacoochee Regional Water Supply Authority, past member, Chairman, 2011",
+      "Associated Industries of Florida, Voting Record \u201cA\u201d (97%), 2019",
+      "College of Central Florida, Advocate Award, 2019",
+      "Florida Chamber of Commerce, Legislative Report Card \u201cA,\u201d 2018, 2019 (100%)",
+      "Independent Colleges and Universities of Florida, ICUF President\u2019s \u201cA\u201d Honor Roll, 2018",
+      "The American Conservative Union Foundation, 100% Rating, Conservative In Excellence Award, 2018",
+      "Florida Family Action, Champion of the Family Award, 2017-2018",
+      "Florida Family Action, Legislative Report Card A+ (100%), 2017-2018",
+      "Florida Police Chiefs Association, Legislator of the Year Award, 2017, 2018",
+      "Florida Farm Bureau, Champion for Agriculture Award, 2017",
+      "The American Conservative Union Foundation, Conservative Excellence Award, 2017",
+      "Marion County Sheriff Emery Gainey\u2019s Eagle Eye Award, 2016",
+      "Southwest Florida Water Management District, Springs Coast Steering Committee, Restoring Our Springs Award, 2016",
+      "Lake Weir Kiwanis Club, Restoration of Lake Weir Kiwanis Club Building, 2015",
+      "Marion County Board of County Commissioners, Chairman, 2006-2007, 2010-2011, 2014-2015",
+      "Florida Association of Counties, Advanced Leadership Program, Advanced County Commissioner Designation, 2012",
+      "Ocala/Marion County Economic Development Corporation, Director\u2019s Award, 2007, 2011",
+      "Marion County Building Industry Association, Builder of the Year Award, 2011",
+      "Marion County Veterans of Foreign Wars Retirement Home, Key to Our Home, 2011",
+      "Marion County Sheriff\u2019s Office, EOC Emergency Management Dedication, 2009",
+      "Marion County Fire Rescue, Historic Fire Rescue Award & Key to Ambulance Activation, 2008",
+      "Florida Association of Counties, Certified County Commissioner, 2007",
+      "North Marion Central Park Association, Commitment & Support by Building Wrigley Fields, 2007"
     ]
   },
   {
@@ -1092,71 +2196,109 @@
     "district": "68",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4686",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4686&LegislativeTermId=90",
+    "staff": [
+      "Colin Kirkland",
+      "Amy Carpenter"
+    ],
     "phones": [
       "(850) 717-5068",
       "(813) 757-9110"
     ],
-    "staff": [
-      "Colin Kirkland",
-      "Amy Carpenter"
-    ]
+    "bio": {
+      "Occupation:": "Business Owner",
+      "Spouse:": "Courtney McClure of Plant City",
+      "Born:": "June 26, 1987, Tampa, FL",
+      "Religious Affiliation:": "Baptist",
+      "Recreational Interest:": "fishing, golf, hunting, outdoors"
+    }
   },
   {
     "name": "Melo, Lauren",
     "district": "82",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4784",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4784&LegislativeTermId=90",
+    "staff": [
+      "Joel Ramos",
+      "Michelle Barre",
+      "Kathleen Elrod"
+    ],
     "phones": [
       "(850) 717-5082",
       "(239) 417-6270",
       "(863) 675-5267"
     ],
-    "staff": [
-      "Joel Ramos",
-      "Michelle Barre",
-      "Kathleen Elrod"
-    ]
+    "bio": {
+      "Occupation:": "Real Estate Broker",
+      "Child(ren):": "Rachele, Dare, Annabelle",
+      "Born:": "August 30, 1966, Naples, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "football, horses, spending time with family"
+    }
   },
   {
     "name": "Duggan, Wyman",
     "district": "12",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4712",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4712&LegislativeTermId=90",
+    "staff": [
+      "Koby Adams",
+      "Crystal Horton"
+    ],
     "phones": [
       "(850) 717-5012",
       "(904) 381-6011"
     ],
-    "staff": [
-      "Koby Adams",
-      "Crystal Horton"
-    ]
+    "bio": {
+      "Occupation:": "Attorney",
+      "Education:": "The University of the South, BA, 1987-1991; William & Mary, JD, 1991-1994",
+      "Born:": "Jacksonville, FL",
+      "Military:": "United States Marine Corps Reserve, 1993-1995",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "Boy Scouts Troop Committee, family time, shooting sports"
+    }
   },
   {
     "name": "Michael, Kiyan",
     "district": "16",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4869",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4869&LegislativeTermId=90",
+    "staff": [
+      "Logan Bragdon",
+      "Destiny Davis"
+    ],
     "phones": [
       "(850) 717-5016",
       "(904) 242-3495"
     ],
-    "staff": [
-      "Logan Bragdon",
-      "Destiny Davis"
-    ]
+    "bio": {
+      "Occupation:": "Credit Manager, Retired",
+      "Spouse:": "Bobby Michael Jr. of Toledo, OH",
+      "Education:": "Wagner Leadership Institute, Bachelor Diploma, Practical Ministry",
+      "Born:": "September 20, Jacksonville, FL",
+      "Religious Affiliation:": "Christian",
+      "Recreational Interest:": "gardening, hiking, reading"
+    }
   },
   {
     "name": "Yarkosky, Taylor Michael",
     "district": "25",
     "contact": "https://www.myfloridahouse.gov/Sections/Representatives/contactmember.aspx?MemberId=4868",
     "details": "https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4868&LegislativeTermId=90",
+    "staff": [
+      "Jackson Damon",
+      "Amanda Geltz"
+    ],
     "phones": [
       "(850) 717-5025",
       "(352) 989-9734"
     ],
-    "staff": [
-      "Jackson Damon",
-      "Amanda Geltz"
-    ]
+    "bio": {
+      "Occupation:": "Business Owner/Contractor",
+      "Spouse:": "Courtney Yarkosky of Texas",
+      "Child(ren):": "Lauren, Kyle, Karsyn, Madelyn, Mallory",
+      "Education:": "University of Iowa, 1999",
+      "Born:": "March 6, 1977, Albia, IA",
+      "Religious Affiliation:": "Catholic"
+    }
   }
 ]
